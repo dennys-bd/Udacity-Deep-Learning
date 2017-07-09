@@ -1,6 +1,5 @@
 import tensorflow as tf
 
-
 def run():
     output = None
     logit_data = [2.0, 1.0, 0.1]
